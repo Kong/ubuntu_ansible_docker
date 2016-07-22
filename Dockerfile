@@ -2,7 +2,7 @@ FROM williamyeh/ansible:ubuntu14.04
 
 RUN apt-get update && \
   apt-get install -y \
-  python-pip && curl
+  python-pip curl
 
 COPY requirements.txt /
 
