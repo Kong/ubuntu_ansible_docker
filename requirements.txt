@@ -34,7 +34,7 @@ virtualenv==1.11.4
 wheel==0.24.0
 wsgiref==0.1.2
 zope.interface==4.0.5
-setuptools==11.3.1
+setuptools==65.5.1
 docker-compose==1.7.1
 docker-py==1.8.1
 dockerpty==0.4.1
